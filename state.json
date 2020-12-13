@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "files": [
+        "libabout.dylib",
+        "libbold.dylib",
+        "libcolor.dylib",
+        "libfont.dylib",
+        "libhelper_class.dylib",
+        "libhelper.dylib",
+        "libstyleNetwork.dylib"
+    ]
+}
